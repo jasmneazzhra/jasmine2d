@@ -2,4 +2,4 @@
 # Praktikum Layout 2D TRPL
 
 
-![Screenshoot hello_world](assets\layout2d.jpg)
+![Screenshoot hello_world](assets/layout2d.jpg)
